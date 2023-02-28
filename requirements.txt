@@ -3,3 +3,4 @@ torch==1.10.0
 matplotlib==3.0.2
 seaborn==0.10.0
 h5py==3.6.0
+py7zr==0.20.2
