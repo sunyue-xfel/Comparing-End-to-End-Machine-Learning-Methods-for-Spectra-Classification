@@ -6,3 +6,5 @@ For more information see our publication 'Sun, Y., Brockhauser, S. and Hegedűs,
 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sunyue-xfel/Comparing-End-to-End-Machine-Learning-Methods-for-Spectra-Classification/HEAD)
+
+CNN model: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sunyue-xfel/Comparing-End-to-End-Machine-Learning-Methods-for-Spectra-Classification/HEAD?labpath=SpectralFingerprint_L2Beamtime-CNN-20230307-2mpool3.ipynb)
