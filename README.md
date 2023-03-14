@@ -37,7 +37,7 @@ ConvSC Attention model: [![Binder](https://mybinder.org/badge_logo.svg)](https:/
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-FNN_1D model: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sunyue-xfel/Comparing-End-to-End-Machine-Learning-Methods-for-Spectra-Classification/main?labpath=SpectralClassification-FNN1D-20230312.ipynb)
+**FNN_1D model:** [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sunyue-xfel/Comparing-End-to-End-Machine-Learning-Methods-for-Spectra-Classification/main?labpath=SpectralClassification-FNN1D-20230312.ipynb)
 <a target="_blank" href="https://colab.research.google.com/github/sunyue-xfel/Comparing-End-to-End-Machine-Learning-Methods-for-Spectra-Classification/blob/main/SpectralClassification-FNN1D-20230312.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
