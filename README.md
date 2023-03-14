@@ -4,6 +4,13 @@ This study aims to develop deep learning (DL) classification frameworks for one-
 
 For more information see our publication 'Sun, Y., Brockhauser, S. and Hegedűs, P., 2021. Comparing End-to-End Machine Learning Methods for Spectra Classification. Applied Sciences, 11(23), p.11520.'
 
+| Open the project in Mybinder or Colab | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sunyue-xfel/Comparing-End-to-End-Machine-Learning-Methods-for-Spectra-Classification/HEAD)  <a target="_blank" href="https://colab.research.google.com/github/sunyue-xfel/Comparing-End-to-End-Machine-Learning-Methods-for-Spectra-Classification">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a> |
+| --- | --- |
+| `git status` | List all *new or modified* files |
+| `git diff` | Show file differences that **haven't been** staged |
+
 Open the project in Mybinder:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sunyue-xfel/Comparing-End-to-End-Machine-Learning-Methods-for-Spectra-Classification/HEAD)
 
