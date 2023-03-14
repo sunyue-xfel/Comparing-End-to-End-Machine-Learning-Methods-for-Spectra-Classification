@@ -12,27 +12,27 @@ Open the project in Colab:
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-CNN model: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sunyue-xfel/Comparing-End-to-End-Machine-Learning-Methods-for-Spectra-Classification/HEAD?labpath=SpectralFingerprint_L2Beamtime-CNN-20230307-2mpool3.ipynb)
+**CNN model:** [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sunyue-xfel/Comparing-End-to-End-Machine-Learning-Methods-for-Spectra-Classification/HEAD?labpath=SpectralFingerprint_L2Beamtime-CNN-20230307-2mpool3.ipynb)
 <a target="_blank" href="https://colab.research.google.com/github/sunyue-xfel/Comparing-End-to-End-Machine-Learning-Methods-for-Spectra-Classification/blob/main/SpectralFingerprint_L2Beamtime-CNN-20230307-2mpool3.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-LSTM model: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sunyue-xfel/Comparing-End-to-End-Machine-Learning-Methods-for-Spectra-Classification/main?labpath=SpectralClassification-FNN1D-20230312.ipynb)
+**LSTM model:** [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sunyue-xfel/Comparing-End-to-End-Machine-Learning-Methods-for-Spectra-Classification/main?labpath=SpectralClassification-FNN1D-20230312.ipynb)
 <a target="_blank" href="https://colab.research.google.com/github/sunyue-xfel/Comparing-End-to-End-Machine-Learning-Methods-for-Spectra-Classification/blob/main/SpectralClassification-FNN1D-20230312.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-Transformer model: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sunyue-xfel/Comparing-End-to-End-Machine-Learning-Methods-for-Spectra-Classification/main?labpath=SpectralClassification-TRANSFORMER-20210815-MultLen.ipynb)
+**Transformer model:** [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sunyue-xfel/Comparing-End-to-End-Machine-Learning-Methods-for-Spectra-Classification/main?labpath=SpectralClassification-TRANSFORMER-20210815-MultLen.ipynb)
 <a target="_blank" href="https://colab.research.google.com/github/sunyue-xfel/Comparing-End-to-End-Machine-Learning-Methods-for-Spectra-Classification/blob/main/SpectralClassification-TRANSFORMER-20210815-MultLen.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-ConvSCT Attention model: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sunyue-xfel/Comparing-End-to-End-Machine-Learning-Methods-for-Spectra-Classification/main?labpath=SpectralClassification-Convolutional%20SCT%20Attention-20230306.ipynb)
+**ConvSCT Attention model:** [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sunyue-xfel/Comparing-End-to-End-Machine-Learning-Methods-for-Spectra-Classification/main?labpath=SpectralClassification-Convolutional%20SCT%20Attention-20230306.ipynb)
 <a target="_blank" href="https://colab.research.google.com/github/sunyue-xfel/Comparing-End-to-End-Machine-Learning-Methods-for-Spectra-Classification/blob/main/SpectralClassification-Convolutional%20SCT%20Attention-20230306.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-ConvSC Attention model: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sunyue-xfel/Comparing-End-to-End-Machine-Learning-Methods-for-Spectra-Classification/main?labpath=SpectralClassification-Convolutional%20SC%20Attention-20210530.ipynb)
+**ConvSC Attention model:** [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sunyue-xfel/Comparing-End-to-End-Machine-Learning-Methods-for-Spectra-Classification/main?labpath=SpectralClassification-Convolutional%20SC%20Attention-20210530.ipynb)
 <a target="_blank" href="https://colab.research.google.com/github/sunyue-xfel/Comparing-End-to-End-Machine-Learning-Methods-for-Spectra-Classification/blob/main/SpectralClassification-Convolutional%20SC%20Attention-20210530.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
